@@ -1,0 +1,20 @@
+git clone: Para copiar la estructura del repositorio github de la nuba en mi máquina local.
+
+git status: Muestra el estado del directorio actual para comprobar, por ejemplo, los cambios realizados y qué archivos no se han cargado.
+
+git add: Para "añadir" archivos al área de preparación. Cuando se hace un commit, se incluyen los archivos de este área.
+
+git commit: Se crea un commit  para confirmar los cambios hechos en el área de preparación.
+
+git push: Se utiliza para subir al repositorio de GitHub los cambios hechos en el repositorio local.
+
+git checkout: Se utiliza para cambiar de rama en el repositorio ¿¿local??.
+
+Si se desea descargarse en local el repositorio de la nube:
+	NUBE --> push --> LOCAL
+
+Si se desea cargar en githab los cambioshechos en local:
+	LOCAL --> add, commit, push --> NUBE
+
+Si se desea crear un desvío de una rama: fork
+Para "juntar" ramas de nuevo: merge
