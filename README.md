@@ -9,6 +9,7 @@ En trabajar con los comandos básicos de git para crear un fork del repositorio 
 ## ¿Qué documentos contiene el repositorio?
 
 **git.pdf**: archivo con los comandos git básicos y sus explicaciones.
+
 **entorno.pdf**: archivo con evidencias de la descarga de JAVA, MAVEN y editores fuente (VisualStudio e IntelliJ).
 
 ## Evidencia de instalación de softwares y funcionamiento:
