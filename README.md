@@ -14,11 +14,19 @@ En trabajar con los comandos básicos de git para crear un fork del repositorio 
 
 ## Evidencia de instalación de softwares y funcionamiento:
 
+_Java_
+
 ![Imagen evidencia JAVA](https://github.com/AlejandraMalia/p1-fork/blob/main/imagenes/java.png)
+
+_Maven_
 
 ![Imagen evidencia Maven](https://github.com/AlejandraMalia/p1-fork/blob/main/imagenes/maven.png)
 
+_IntelliJ_
+
 ![Imagen evidencia intelliJ](https://github.com/AlejandraMalia/p1-fork/blob/main/imagenes/intelliJ.png)
+
+_VisualStudio_
 
 ![Imagen evidecia VisualStudio](https://github.com/AlejandraMalia/p1-fork/blob/main/imagenes/visual.png)
 
